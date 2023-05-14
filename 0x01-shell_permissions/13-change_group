@@ -1,2 +1,2 @@
 #!/bin/bash
-su chown --reference=hello school
+su chown --reference=school hello
